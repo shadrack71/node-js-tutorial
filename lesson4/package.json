@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "date-fns": "^4.1.0",
+    "lesson3": "file:",
     "uuid": "^11.0.4"
   },
   "devDependencies": {
