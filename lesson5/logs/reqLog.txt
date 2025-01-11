@@ -1,0 +1,10 @@
+2025-01-11	23:53:37	fbdb992f-05db-4759-8be3-79e50f6f574f	/new-page.html	GET
+2025-01-11	23:53:38	f9b21495-fb5d-4876-b507-9a57c8029a51	/css/style.css	GET
+2025-01-11	23:53:38	d8b4585e-9aee-4f65-a50c-caa47d6bc388	/img/img1.jpg	GET
+2025-01-11	23:53:41	f2a8ca03-af97-46ab-bade-ac1c6fead3c8	/favicon.ico	GET
+2025-01-11	23:55:01	1ef922d2-6eb6-4637-8d4b-76695409fd2e	/new-page.html	GET
+2025-01-11	23:55:02	2e5c5061-38cb-4f34-bb5c-17557a9f033b	/css/style.css	GET
+2025-01-11	23:55:02	83e7a558-0e4c-4a1c-a646-49703fdbb3cb	/img/img1.jpg	GET
+2025-01-12	00:01:36	8556e15b-af67-4bd2-9cbe-0a22863e46cf	/new-page.html	GET
+2025-01-12	00:01:36	f8beee37-15a6-46d3-b0b0-7d24685ba6de	TypeError	fsPromises.readFil is not a function
+2025-01-12	00:03:07	d5bb2407-a856-41dd-a5f3-abbae382bb18	/new-page.html	GET

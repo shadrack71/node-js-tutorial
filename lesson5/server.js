@@ -34,7 +34,7 @@ const serverFile = async (filePath,contentType,response)=>{
 
     }catch(err){
         console.log(err)
-        myEmitter.emit('log', `${err.name}\t${err.message}`, 'reqLog.txt');
+        myEmitter.emit('log', `${err.name}\t${err.message}`, 'errLog.txt');
         response.statusCode = 500
         response.end()
 
@@ -112,7 +112,4 @@ const server = http.createServer((req,res)=>{
 })
 server.listen(PORT, () => console.log(`Server listening on ${PORT}`))
 
-myEmitter.on('log',(msg)=>{
-    logEvent(msg)
 
-})
