@@ -1,0 +1,17 @@
+2025-01-19	13:55:00	b9dbdc79-23d3-477d-b06b-08afd9268015	GET	undefined	/css/style.css
+2025-01-19	13:55:26	da7601de-c6c0-4c1e-8e17-9d64521e61c1	GET	undefined	/
+2025-01-19	13:55:27	bb297767-cb67-4efb-9713-263eba236677	GET	undefined	/css/style.css
+2025-01-19	14:02:30	62f87c2f-1019-430a-a4ae-b71d500fe07f	GET	undefined	/
+2025-01-19	14:02:30	117cbf61-3e6a-47df-b301-17503c761149	GET	undefined	/css/style.css
+2025-01-19	14:04:59	4a2aba13-05d6-4713-9a6c-bbd6286f5060	OPTIONS	https://www.google.com	/
+2025-01-19	14:04:59	67cd904d-837e-4a86-bc06-55ba79332233	GET	https://www.google.com	/
+2025-01-19	14:05:09	b0dbfffc-6202-49ae-83fe-2fb1039046cf	OPTIONS	https://www.google.com	/
+2025-01-19	14:05:09	25a91e89-58b6-4620-8972-a6e0f63e2841	GET	https://www.google.com	/
+2025-01-19	14:14:16	6a1cf2a2-0072-4568-ba12-555ebcf9bfd3	GET	undefined	/
+2025-01-19	14:14:17	e499de92-efd1-4d69-bb74-9cc685d3a6ff	GET	undefined	/css/style.css
+2025-01-19	14:15:31	cdce9eca-fe29-44f9-9eff-fefc7adf7565	GET	undefined	/
+2025-01-19	14:16:13	63eb470c-a5dd-46bc-aeb1-e16cb8df3940	GET	undefined	/
+2025-01-19	14:16:39	7a2f2cf2-3ad3-43e6-a064-d92cfefe894b	GET	undefined	/
+2025-01-19	14:17:56	2d908d77-c3ae-47af-aee5-e6c5e11ab670	GET	undefined	/
+2025-01-19	14:18:18	f57922d8-07b7-4223-9de6-8358723edf9b	GET	undefined	/
+2025-01-19	14:18:19	56fa7f47-56b8-4277-bb90-2d2ff59ac14b	GET	undefined	/css/style.css
