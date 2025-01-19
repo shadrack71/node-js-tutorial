@@ -14,7 +14,7 @@ const logEvent = async (message,logName)=>{
         if (!fs.existsSync(path.join(__dirname,'..','logs'))){
             await fsPromise.mkdir(path.join(__dirname,'..','logs'))
         }
-        //tesing  ttt 
+        
         await fsPromise.appendFile(path.join(__dirname,'..','logs',logName),logMessage)
 
     }catch(err){

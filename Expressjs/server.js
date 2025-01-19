@@ -26,6 +26,8 @@ const corsOptions = {
     },
     optionsSuccessStatus: 200
 }
+
+
 app.use(cors(corsOptions));
 
 
@@ -40,9 +42,6 @@ app.use(express.json());
 
 //serve static files
 app.use(express.static(path.join(__dirname, '/public')));
-
-
-
 
 app.get('^/$|/index(.html)?', (req, res) => {
     //res.sendFile('./views/index.html', { root: __dirname });
