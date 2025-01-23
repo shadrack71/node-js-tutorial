@@ -1,1 +1,2 @@
 2025-01-19	14:17:56	5fcec29c-6b45-4cc8-a69d-18a1686680df	Error: Not allowed by CORS
+2025-01-23	12:42:04	97550e6b-4262-4d72-81a2-fca7995e2c6b	Error: Cannot set headers after they are sent to the client

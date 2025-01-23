@@ -35,3 +35,13 @@
 2025-01-23	12:03:03	32abc0f7-fe28-41d6-a317-6ccc9112f527	GET	undefined	/new-page.html
 2025-01-23	12:03:03	4ef8ffdf-6e43-414b-a42a-66c7b7fb67a9	GET	undefined	/css/style.css
 2025-01-23	12:03:03	f714bff6-701b-458a-898c-6612b660a971	GET	undefined	/img/img1.jpg
+2025-01-23	12:34:44	b34fa2f8-76a3-4768-94b0-123470116b1f	GET	undefined	/employee
+2025-01-23	12:35:40	09e9d9df-70f6-457c-85bf-44f9adb05d72	POST	undefined	/employee
+2025-01-23	12:36:19	f532a0cc-6ec0-4b99-b0b0-cb61d67d11b2	PUT	undefined	/employee
+2025-01-23	12:36:29	4b71fe16-90ca-4e7a-8ffb-b691efcc30a2	DELETE	undefined	/employee
+2025-01-23	12:36:42	277de075-1dc6-432b-ae05-086f79202600	DELETE	undefined	/employee/1
+2025-01-23	12:37:14	e812fc9c-2657-48c3-8ff7-a9e0457c0eb1	DELETE	undefined	/employee/1
+2025-01-23	12:37:26	b41f6a87-60fc-4cd5-98b4-337a02f7c8b1	GET	undefined	/employee/1
+2025-01-23	12:40:58	632f8a1e-e629-4586-a67e-058770616be2	POST	undefined	/employee/
+2025-01-23	12:41:39	68ec7a79-341b-4f30-873c-bd1fa8f941cb	POST	undefined	/employee/
+2025-01-23	12:42:04	844c7dab-ed19-4351-91e0-f55d3d8284b8	PUT	undefined	/employee/

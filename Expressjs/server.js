@@ -9,6 +9,7 @@ const  { logger } = require('./middleware/logEvent');
 const   errorHandler  = require('./middleware/errorHandler');
 const routerSubdir = require('./routes/subdir');
 const routerRoot = require('./routes/root')
+const employeeRoute = require('./routes/api/employee')
 
 
 // custom middleware logger
@@ -48,6 +49,7 @@ app.use('/subdir',express.static(path.join(__dirname, '/public')));
 
 app.use('/', routerRoot)
 app.use('/subdir', routerSubdir)
+app.use('/employee', employeeRoute)
 
 
 
