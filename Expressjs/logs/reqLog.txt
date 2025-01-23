@@ -45,3 +45,12 @@
 2025-01-23	12:40:58	632f8a1e-e629-4586-a67e-058770616be2	POST	undefined	/employee/
 2025-01-23	12:41:39	68ec7a79-341b-4f30-873c-bd1fa8f941cb	POST	undefined	/employee/
 2025-01-23	12:42:04	844c7dab-ed19-4351-91e0-f55d3d8284b8	PUT	undefined	/employee/
+2025-01-23	13:09:25	4e3b726e-47a7-4ef5-ab68-5a30e7073295	PUT	undefined	/employee/
+2025-01-23	13:09:41	c22a523e-8b0d-42ad-aa2f-58767e502390	GET	undefined	/employee/
+2025-01-23	13:10:21	6975064f-d14f-45dd-aa4d-fa2a9d5beda7	POST	undefined	/employee/
+2025-01-23	13:14:02	0fd17e0c-d384-4224-bc9a-db0e59570fd4	POST	undefined	/employee/
+2025-01-23	13:14:21	70a378e0-87fd-4fba-bea6-3580f2f17fd4	POST	undefined	/employee/
+2025-01-23	13:14:47	3586f6f5-0eb2-4aab-8121-52c93100ed69	PUT	undefined	/employee/
+2025-01-23	13:15:09	b5f535a9-c62a-4731-89b4-35b1b7e1e634	PUT	undefined	/employee/
+2025-01-23	13:15:51	4e8d8050-bb30-4431-a728-6a0348512e79	DELETE	undefined	/employee/
+2025-01-23	13:16:34	e3eb8891-1f7b-42a5-858d-26fb0b8da5d3	GET	undefined	/employee/2
