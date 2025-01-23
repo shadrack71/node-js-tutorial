@@ -3,6 +3,7 @@
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "express": "^4.21.2",
+    "expressjs": "file:",
     "uuid": "^11.0.5"
   },
   "name": "expressjs",
