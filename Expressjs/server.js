@@ -10,6 +10,8 @@ const   errorHandler  = require('./middleware/errorHandler');
 const routerSubdir = require('./routes/subdir');
 const routerRoot = require('./routes/root')
 const employeeRoute = require('./routes/api/employee')
+const registerRoute = require('./routes/register')
+const loginRoute = require('./routes/login')
 const corsOptions = require('./config/corsOptions')
 
 
@@ -36,6 +38,8 @@ app.use('/subdir',express.static(path.join(__dirname, '/public')));
 app.use('/', routerRoot)
 app.use('/subdir', routerSubdir)
 app.use('/employee', employeeRoute)
+app.use('/register', registerRoute)
+app.use('/login', loginRoute)
 
 app.use(errorHandler)
 
