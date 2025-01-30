@@ -4,6 +4,7 @@ const  path = require('path');
 const employeeController = require('../../controllers/employeeController')
 
 
+
 router.route('/')
     .get(employeeController.getAllEmployees)
     .post(employeeController.createNewEmployee)
